@@ -1,3 +1,4 @@
+#task1 :
 #taking two inputs from user and printing them
 
 a = float(input("enter a value :")) 
@@ -16,3 +17,10 @@ print("subtraction of a and b is : ", sub)
 print("multiplication of a and b is : ", mul)
 print("division of a and b is : ", div)
 
+
+
+#task2 :
+first_name = input("Enter your first name: ")
+last_name = input("Enter your last name: ")
+name = first_name + " " + last_name
+print("Hello, " + name + "! Welcome to the python program.")
